@@ -15,9 +15,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
             <img
-              src="/lovable-uploads/303d78b9-67bd-437e-a6b9-0c43a844e736.png"
+              src="/lovable-uploads/1a5d044c-8f4a-498f-b92c-664b33aebb0d.png"
               alt="Akogen Logo"
-              className="h-10 mb-4"
+              className="h-12 mb-4"
             />
             <p className="text-gray-400 mb-4">
               Converting kitchen food waste into high-quality compressed biogas (CBG) for a sustainable future.
