@@ -1,6 +1,7 @@
 
 import { useEffect, useRef } from "react";
 import { Leaf, Recycle, Database } from "lucide-react";
+import Check from "./Check";
 
 const BenefitsSection = () => {
   const sectionRef = useRef<HTMLDivElement>(null);
