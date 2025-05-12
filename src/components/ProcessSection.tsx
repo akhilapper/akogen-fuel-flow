@@ -5,6 +5,13 @@ import { Check } from "lucide-react";
 const ProcessSection = () => {
   const sectionRef = useRef<HTMLDivElement>(null);
   const stepsRef = useRef<(HTMLLIElement | null)[]>([]);
+  const localImages = [
+  'waste_img1.jpg',
+  'waste_img2.jpg',
+  'waste_img3.jpg',
+  'waste_img4.jpg',
+  'waste_img5.jpg'
+];
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -107,15 +114,11 @@ const ProcessSection = () => {
                 
                 <div className={`order-3 ${index % 2 === 0 ? 'lg:order-3' : 'lg:order-1'} lg:w-5/12`}>
                   <div className="bg-akogen-green-light rounded-lg overflow-hidden shadow-md">
-                    <img 
-                      src={`https://images.unsplash.com/photo-${index === 0 ? '1618160702438-9b02ab6515c9' : 
-                                                            index === 1 ? '1535268647677-300dbf3d78d1' :
-                                                            index === 2 ? '1501854140801-50d01698950b' :
-                                                            index === 3 ? '1618160702438-9b02ab6515c9' : 
-                                                                       '1506744038136-46273834b3fb'}`}
-                      alt={step.title}
+                     <img 
+                      src={`/lovable-uploads/${localImages[index]}`} 
+                      alt={step.title} 
                       className="w-full h-60 object-cover"
-                    />
+                      />
                   </div>
                 </div>
               </li>
