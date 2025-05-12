@@ -58,7 +58,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-akogen-black">Phone</h4>
-                  <p className="text-akogen-gray">+91 99583 75277</p>
+                  <p className="text-akogen-gray">+91 995 837 5277</p>
                 </div>
               </div>
               
@@ -80,7 +80,7 @@ const ContactSection = () => {
                   <h4 className="font-semibold text-akogen-black">Office</h4>
                   <p className="text-akogen-gray">
                     Sony world signal, 80ft road,<br />
-                    Koramangala, Bangalore 560034
+                    Koramangala, Bangalore 560095
                   </p>
                 </div>
               </div>
