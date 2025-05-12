@@ -45,18 +45,18 @@ const Index = () => {
               <div className="order-2 lg:order-1 reveal">
                 <h2 className="text-3xl md:text-4xl font-bold text-akogen-black mb-6">About Akogen</h2>
                 <p className="text-akogen-gray text-lg mb-6">
-                  Akogen is pioneering a circular economy solution for Bangalore's commercial kitchens by converting food waste into clean, sustainable energy.
+                  Akogen is pioneering a circular economy solution for Bangalore by converting organic waste into clean, sustainable energy.
                 </p>
                 <p className="text-akogen-gray text-lg mb-6">
-                  We source organic waste from restaurants, cloud kitchens, and corporate canteens, process it through anaerobic digestion to produce methane, and supply compressed biogas (CBG) back to those same kitchens as a clean, cost-effective alternative to LPG.
+                  We source organic waste from restaurants, cloud kitchens, and corporate canteens, process it through anaerobic digestion to produce methane, and supply compressed biogas (CBG) back to those same kitchens and gas infrastructure as a clean, cost-effective alternative to LPG.
                 </p>
                 <div className="grid grid-cols-2 gap-6 mt-8">
                   <div className="bg-white p-4 rounded-lg shadow-md text-center">
-                    <h3 className="text-akogen-green text-3xl font-bold mb-2">15-20%</h3>
+                    <h3 className="text-akogen-green text-3xl font-bold mb-2">20%</h3>
                     <p className="text-akogen-gray">Cost Savings</p>
                   </div>
                   <div className="bg-white p-4 rounded-lg shadow-md text-center">
-                    <h3 className="text-akogen-green text-3xl font-bold mb-2">90%</h3>
+                    <h3 className="text-akogen-green text-3xl font-bold mb-2">30%</h3>
                     <p className="text-akogen-gray">Reduced Emissions</p>
                   </div>
                 </div>

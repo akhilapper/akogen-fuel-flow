@@ -57,7 +57,7 @@ const HeroSection = () => {
           </div>
           <div className="relative p-4 reveal" style={{ transitionDelay: "0.2s" }}>
             <div className="bg-white rounded-2xl shadow-lg p-6 relative">
-              <div className="absolute -top-4 -right-4 bg-akogen-green text-white py-2 px-4 rounded-md font-medium">
+              <div className="relative -top-4  bg-akogen-green text-white py-2 px-4 rounded-md font-medium">
                 Circular Economy
               </div>
               <img 
@@ -74,11 +74,11 @@ const HeroSection = () => {
               <div className="flex items-center justify-between border-t border-gray-100 pt-4">
                 <div className="flex flex-col">
                   <span className="text-sm text-akogen-gray">Reduced Carbon Footprint</span>
-                  <span className="font-semibold">Up to 90% Less Emissions</span>
+                  <span className="font-semibold">Up to 30% Less Emissions</span>
                 </div>
                 <div className="flex flex-col">
                   <span className="text-sm text-akogen-gray">Cost Savings</span>
-                  <span className="font-semibold">15-20% on Energy Bills</span>
+                  <span className="font-semibold">20% on Energy Bills</span>
                 </div>
               </div>
             </div>
