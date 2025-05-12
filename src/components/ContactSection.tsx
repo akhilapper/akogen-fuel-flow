@@ -58,7 +58,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-akogen-black">Phone</h4>
-                  <p className="text-akogen-gray">+91 98765 43210</p>
+                  <p className="text-akogen-gray">+91 99583 75277</p>
                 </div>
               </div>
               
@@ -68,7 +68,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-semibold text-akogen-black">Email</h4>
-                  <p className="text-akogen-gray">contact@akogen.com</p>
+                  <p className="text-akogen-gray">akhil1999bhatt@gmail.com</p>
                 </div>
               </div>
               
@@ -79,7 +79,7 @@ const ContactSection = () => {
                 <div>
                   <h4 className="font-semibold text-akogen-black">Office</h4>
                   <p className="text-akogen-gray">
-                    123 Green Energy Lane,<br />
+                    Sony world signal, 80ft road,<br />
                     Koramangala, Bangalore 560034
                   </p>
                 </div>

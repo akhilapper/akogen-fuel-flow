@@ -79,5 +79,18 @@
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1"
-  }
+  },
+  "description": "**URL**: https://lovable.dev/projects/da751dc3-a629-4818-a5bf-7a6d7f469954",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilapper/akogen-fuel-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilapper/akogen-fuel-flow/issues"
+  },
+  "homepage": "https://github.com/akhilapper/akogen-fuel-flow#readme"
 }
