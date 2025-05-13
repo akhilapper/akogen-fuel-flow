@@ -30,9 +30,9 @@ const ContactSection = () => {
     try {
       // Initialize EmailJS with your user ID (this would normally be in an env variable)
       // You'll need to sign up at emailjs.com and replace this with your actual service ID
-      const serviceId = 'default_service';
-      const templateId = 'template_default';
-      const userId = 'user_your_user_id';
+      const serviceId = 'service_9csg3mg';
+      const templateId = 'template_8or3bxg';
+      const userId = 'yTd_pvIETgsnjvWhX';
       
       const templateParams = {
         to_email: 'akhil1999bhatt@gmail.com',
